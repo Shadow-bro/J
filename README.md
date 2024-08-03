@@ -443,25 +443,25 @@ g.drawString("welcome to applet",200,200);
 }
 
 
-<html>
+html
  
-<head>
+head
  
-<title>First Applet</title>
+title First Applet /title
 
-</head>
+/head
 
-<body>
+body
  
-<applet code="Program13.class" width=400 height=400>
-</applet>
+applet code="Program13.class" width=400 height=400
+/applet
 
-</body>
+/body
 
-</html>
+/html
 
 
-4. Program to draw several shapes in the created window.
+4 Program to draw several shapes in the created window.
 
 
 import java.applet.*;
@@ -495,22 +495,22 @@ g.drawPolygon(x,y,x.length);
 }
 }
 
-<html>
+html
  
-<head>
+head
  
-<title>Shapes applet</title>
+title Shapes applet /title
 
-</head>
+/head
 
-<body>
+body
  
 <applet code=Program15.class Width=800 height=800>
 </applet>
 
-</body>
+/body
 
-</html>
+/html
 
 
 
@@ -551,22 +551,22 @@ y=y+20;
 }
 
 
-<html>
+html
  
-<head>
+head
  
-<title>Grid</title>
+title Grid /title
 
-</head>
+/head
 
-<body>
+body
  
 <applet code=Program16.class Width=800 height=800>
 </applet>
 
-</body>
+/body
 
-</html>
+/html
 
 
 
@@ -648,22 +648,22 @@ g.drawStrtng("Course :BCA",100,130);
 }
 
 
-<html>
+html
  
-<head>
+head
  
-<title>Personnel Information</title>
+title Personnel Information /title
 
-</head>
+/head
 
-<body>
+body
  
 <applet code="Program14.class" width=400 height=400>
 </applet>
 
-</body>
+/body
 
-</html>
+/html
 
 
 
